@@ -58,7 +58,7 @@ src: url("../font/MTNBrighterSans-Regular.otf");
         }
 
         #bg-wrapper{
-         height: 500px;
+         height: 525px;
           background-image: url("../images/mtnn.jpg");
           background-size: cover;
         }
@@ -190,6 +190,10 @@ src: url("../font/MTNBrighterSans-Regular.otf");
             font-family: mtnfont;
             font-size: 20px;
             padding-top: 10px;
+        }
+
+        #login-section{
+            margin-left: 120px;
         }
     }
 
